@@ -3,8 +3,13 @@ content_type: resource
 description: Example student presentation for the final assignment. Topics include  industrial
   parcel characteristics, Massachusetts waterfront, and design guidelines for public
   open space.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-333-urban-design-seminar-spring-2005/a0d48dc31df7acf89808cd710424c904_recla_indu_lands.pdf
+file: /media/courses/11-333-urban-design-seminar-spring-2005/a0d48dc31df7acf89808cd710424c904_recla_indu_lands.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: POST_INDUSTRIAL / Reclaiming the Industrial Landscape
 uid: a0d48dc3-1df7-acf8-9808-cd710424c904
