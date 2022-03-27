@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: bbf99a3a-9121-56fc-f161-c6e120e80ee2
 resourcetype: Document
 title: Agile Houses and Neighborhoods
 uid: 18290947-b428-3f4d-9939-c1cfd2de27cc

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: bbf99a3a-9121-56fc-f161-c6e120e80ee2
 resourcetype: Document
 title: The Future of Work
 uid: 1d62364d-5ad9-eddb-35c9-ece1177682e4

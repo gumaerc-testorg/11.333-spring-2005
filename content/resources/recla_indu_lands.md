@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: bbf99a3a-9121-56fc-f161-c6e120e80ee2
 resourcetype: Document
 title: POST_INDUSTRIAL / Reclaiming the Industrial Landscape
 uid: a0d48dc3-1df7-acf8-9808-cd710424c904

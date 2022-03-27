@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: bbf99a3a-9121-56fc-f161-c6e120e80ee2
 resourcetype: Document
 title: Identity, Urbanism, Future Form
 uid: ea49c4a6-a15f-1e21-cfa5-83c7f4f103c7

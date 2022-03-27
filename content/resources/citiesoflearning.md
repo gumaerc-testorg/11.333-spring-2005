@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: bbf99a3a-9121-56fc-f161-c6e120e80ee2
 resourcetype: Document
 title: 'creating a city of learning: schools in the city'
 uid: 1884d3d2-781b-a6e9-5164-7ecd0c41f1c2
