@@ -6,6 +6,7 @@ file: /courses/11-333-urban-design-seminar-spring-2005/18290947b4283f4d9939c1cfd
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Agile Houses and Neighborhoods
 uid: 18290947-b428-3f4d-9939-c1cfd2de27cc
 ---
 Example student project on the advantages and disadvantages of planning and unplanning places.
-

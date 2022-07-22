@@ -5,6 +5,7 @@ file: /courses/11-333-urban-design-seminar-spring-2005/1884d3d2781ba6e951647ecd0
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'creating a city of learning: schools in the city'
 uid: 1884d3d2-781b-a6e9-5164-7ecd0c41f1c2
 ---
 Example student presentation for the final assignment on schools in cities.
-
