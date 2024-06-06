@@ -3,6 +3,7 @@ content_type: resource
 description: Example student presentation for the final assignment. Topics include
   the evolution of an everyday social activity and means of communication.
 file: /courses/11-333-urban-design-seminar-spring-2005/4107aad1f3ae45b9717f623ae8fdf162_mediatedpublicsp.pdf
+file_size: 810248
 file_type: application/pdf
 learning_resource_types:
 - Projects
