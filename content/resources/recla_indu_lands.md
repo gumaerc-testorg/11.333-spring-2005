@@ -3,7 +3,7 @@ content_type: resource
 description: Example student presentation for the final assignment. Topics include  industrial
   parcel characteristics, Massachusetts waterfront, and design guidelines for public
   open space.
-file: /courses/11-333-urban-design-seminar-spring-2005/a0d48dc31df7acf89808cd710424c904_recla_indu_lands.pdf
+file: /ol-ocw-studio-app/courses/11-333-urban-design-seminar-spring-2005/a0d48dc31df7acf89808cd710424c904_recla_indu_lands.pdf
 file_size: 2108972
 file_type: application/pdf
 learning_resource_types:
