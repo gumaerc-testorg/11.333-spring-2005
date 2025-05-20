@@ -2,7 +2,7 @@
 content_type: resource
 description: Example student project on the advantages and disadvantages of planning
   and unplanning places.
-file: /ol-ocw-studio-app/courses/11-333-urban-design-seminar-spring-2005/18290947b4283f4d9939c1cfd2de27cc_housesandneighds.pdf
+file: /courses/11-333-urban-design-seminar-spring-2005/18290947b4283f4d9939c1cfd2de27cc_housesandneighds.pdf
 file_size: 1243112
 file_type: application/pdf
 learning_resource_types:
